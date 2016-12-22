@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\Laboratorul 2\Lab2RSAVadim\Lab2RSAVadim\bin\Debug\Lab2RSAVadim.exe.config
+\\Mac\Home\Desktop\Laboratorul 2\Lab2RSAVadim\Lab2RSAVadim\obj\Debug\Lab2RSAVadim.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Laboratorul 2\Lab2RSAVadim\Lab2RSAVadim\bin\Debug\Lab2RSAVadim.exe
+\\Mac\Home\Desktop\Laboratorul 2\Lab2RSAVadim\Lab2RSAVadim\bin\Debug\Lab2RSAVadim.pdb
+\\Mac\Home\Desktop\Laboratorul 2\Lab2RSAVadim\Lab2RSAVadim\obj\Debug\Lab2RSAVadim.exe
+\\Mac\Home\Desktop\Laboratorul 2\Lab2RSAVadim\Lab2RSAVadim\obj\Debug\Lab2RSAVadim.pdb
+\\Mac\Home\Documents\DesktopUncluster\Univer Semestrul I Anul 4\SI\Laboratorul 2\Lab2RSAVadim\Lab2RSAVadim\bin\Debug\Lab2RSAVadim.exe.config
+\\Mac\Home\Documents\DesktopUncluster\Univer Semestrul I Anul 4\SI\Laboratorul 2\Lab2RSAVadim\Lab2RSAVadim\obj\Debug\Lab2RSAVadim.exe
+\\Mac\Home\Documents\DesktopUncluster\Univer Semestrul I Anul 4\SI\Laboratorul 2\Lab2RSAVadim\Lab2RSAVadim\obj\Debug\Lab2RSAVadim.pdb
